@@ -1,9 +1,8 @@
 If your retention is poor nothing else matters! 
 ## Predicting Banking Customer Churn
 
-![alt text](path/to/https://s16353.pcdn.co/wp-content/uploads/2018/06/Churn.png)
+![alt text](path/to/https://media.licdn.com/dms/image/C5612AQF5TDwdJsp9Yw/article-cover_image-shrink_600_2000/0/1545640989538?e=2147483647&v=beta&t=drkYEbBcpeYmkt0c67lJCrySwn9Jh0eLDKuPCbbX1MM)
 
-images/name of image in images folder in github
 
 
 ## Overview:
