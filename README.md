@@ -1,7 +1,7 @@
 If your retention is poor nothing else matters! 
 ## Predicting Banking Customer Churn
 
-![alt text](path/to/https://s16353.pcdn.co/wp-content/uploads/2018/06/Churn.png)
+![alt text](path/to/Images/customer churn.jpg)
 
 
 
