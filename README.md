@@ -30,24 +30,14 @@ The Bank Customer Churn dataset was obtained from Kaggle. It is stored in a CSV 
 
 The dataset contains 12 distinct features (data columns) those being:
 
-customer_id (int64)
-credit_score (int64)
-country (object)
-gender (object)
-age (int64)
-tenure (int64)
-balance (float64)
-products_number (int64)
-credit_card (int64)
-active member (int64)
-estimated salary (float64)
-churn (int64)
+![alt text](Images/data.info.PNG)
 
 'Churn' is used as the target variable. In the dataset, churn is equivalent to 1 if the client has left the bank during some period or 0 if he/she has not churned.
 
 ## Modeling and Evaluation
 Statistical and data mining techniques were used to create the prediction models. The Classification toold are used to model and predict customer churn were decision trees and random forests. The decision tree served as the baseline model, which produced a prediction accuracy of 78.5%. The improved random forests model produced a prediction accuracy of 86.3%. The improved model was 7.8% more accurate than the baseline. Additionally, I utilized Grid Search, a method for performing hyper-parameter optimisation, with both models and the test data set. The output generated the optimal combination of hyper-parameters for each model and improved the results. The output revealed that the hyperparameters of max_depth=15, min_samples_split=10, random_state=42 within the Random Forests model were the most optimal and would result in the most accurate predictions. 
 
+![alt text](Images/RF_FeatureImportance.PNG)
 
 
 ## Conclusion:
